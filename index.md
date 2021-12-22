@@ -12,7 +12,17 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 <br>
 <br>
 
-1- Click  Binance Smart Chain (BEP2020)
+1-Click CREATE TOKEN
+<br>
+<br>
+
+
+![b1](https://i.imgur.com/Uq8tqwV.png)
+
+
+
+
+2- Click  Binance Smart Chain (BEP2020)
 <br>
 <br>
 
@@ -35,7 +45,19 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 ![b3](https://i.imgur.com/4fogCnd.png)
 
 
-3- Pay the service fee and gas fee
+3- Open Metamask and connect
+<br>
+<br>
+
+
+
+
+![b4](https://i.imgur.com/wU8ma5Y.png)
+
+![b4](https://i.imgur.com/VBRlEj4.png)
+
+
+4- Pay the service fee and gas fee
 <br>
 <br>
 
