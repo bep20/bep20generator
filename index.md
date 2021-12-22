@@ -45,6 +45,11 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 ![b3](https://i.imgur.com/4fogCnd.png)
 
 
+
+
+
+
+
 3- Open Metamask and connect
 <br>
 <br>
@@ -55,6 +60,11 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 ![b4](https://i.imgur.com/wU8ma5Y.png)
 
 ![b4](https://i.imgur.com/VBRlEj4.png)
+
+
+
+
+
 
 
 4- Pay the service fee and gas fee
